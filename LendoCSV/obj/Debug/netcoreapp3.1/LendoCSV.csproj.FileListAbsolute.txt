@@ -1,0 +1,13 @@
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\bin\Debug\netcoreapp3.1\LendoCSV.exe
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\bin\Debug\netcoreapp3.1\LendoCSV.deps.json
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\bin\Debug\netcoreapp3.1\LendoCSV.runtimeconfig.json
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\bin\Debug\netcoreapp3.1\LendoCSV.runtimeconfig.dev.json
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\bin\Debug\netcoreapp3.1\LendoCSV.dll
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\bin\Debug\netcoreapp3.1\LendoCSV.pdb
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\obj\Debug\netcoreapp3.1\LendoCSV.csprojAssemblyReference.cache
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\obj\Debug\netcoreapp3.1\LendoCSV.AssemblyInfoInputs.cache
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\obj\Debug\netcoreapp3.1\LendoCSV.AssemblyInfo.cs
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\obj\Debug\netcoreapp3.1\LendoCSV.csproj.CoreCompileInputs.cache
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\obj\Debug\netcoreapp3.1\LendoCSV.dll
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\obj\Debug\netcoreapp3.1\LendoCSV.pdb
+C:\Users\wcogeo\source\repos\LendoCSV\LendoCSV\obj\Debug\netcoreapp3.1\LendoCSV.genruntimeconfig.cache
